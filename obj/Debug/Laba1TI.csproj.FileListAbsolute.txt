@@ -1,0 +1,10 @@
+D:\ТИ\Laba1TI\bin\Debug\Laba1TI.exe.config
+D:\ТИ\Laba1TI\bin\Debug\Laba1TI.exe
+D:\ТИ\Laba1TI\bin\Debug\Laba1TI.pdb
+D:\ТИ\Laba1TI\obj\Debug\Laba1TI.csprojAssemblyReference.cache
+D:\ТИ\Laba1TI\obj\Debug\Laba1TI.Main.resources
+D:\ТИ\Laba1TI\obj\Debug\Laba1TI.Properties.Resources.resources
+D:\ТИ\Laba1TI\obj\Debug\Laba1TI.csproj.GenerateResource.cache
+D:\ТИ\Laba1TI\obj\Debug\Laba1TI.csproj.CoreCompileInputs.cache
+D:\ТИ\Laba1TI\obj\Debug\Laba1TI.exe
+D:\ТИ\Laba1TI\obj\Debug\Laba1TI.pdb
